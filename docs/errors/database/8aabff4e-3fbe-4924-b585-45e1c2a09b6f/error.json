@@ -1,0 +1,21 @@
+{
+    "id": "8aabff4e-3fbe-4924-b585-45e1c2a09b6f",
+    "timestamp": "2025-07-03 21:28:09",
+    "reporter": "Seu Nome",
+    "category": "UI",
+    "module": "modulo.py",
+    "severity": "Médio",
+    "status": "Aberto",
+    "title": "Título do Erro",
+    "description": "Descrição do erro",
+    "version": "1.0",
+    "os": null,
+    "python_version": null,
+    "steps_to_reproduce": [],
+    "expected_behavior": null,
+    "actual_behavior": null,
+    "logs": null,
+    "root_cause": "",
+    "solution": "",
+    "lessons_learned": ""
+}
